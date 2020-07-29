@@ -6,31 +6,25 @@ Web Programming with Python and JavaScript
 
 * 4 html diferentes 
 
-* 1 lista ordenada o desordenada --------------------- Listo
+* 1 Lista ordenada o desordenada 
  
-* 1 hoja de css --------------------- Listo
+* 1 Hoja de css 
 
-* 5 propiedades de css diferentes --------------------- Listo
+* 5 propiedades de css diferentes 
 
-* selector de id css --------------------- Listo
-* selector de clase
+* Selector de id css 
 
-* 1 media query --------------------- Listo
+* Selector de clase
 
-* 1 componente de bootstrap --------------------- Listo
+* 1 Media query 
 
-* grid model de bootstrap --------------------- Listo
+* 1 Componente de bootstrap 
 
-* 1 variable scss ----------------------------- Listo
+* Grid model de bootstrap 
 
-* un ejemplo de nesting scss
+* 1 Variable scss 
 
-* Scss herencia
+## * [Pendiente] Un ejemplo de nesting scss
 
------Agregar las tablas a los html de los personales ---> HECHO
------Hacer página de contacto -------> HECHO
------Meter los 3 puntos anteriores en la página de contacto * ------> 19/06/2020
------Hacer página de noticias ---------> 20/01/2020
------Agregar la información de la página -----> 20/01/2020
------Crear el video de la página -----> 20/01/2020
------Enviar proyecto en GitHub -----> 20/01/2020
+## * [Pendiente] SCSS herencia
+
