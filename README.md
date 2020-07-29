@@ -3,7 +3,6 @@
 Web Programming with Python and JavaScript
 
 
-
 * 4 html diferentes 
 
 * 1 Lista ordenada o desordenada 
@@ -28,3 +27,4 @@ Web Programming with Python and JavaScript
 
 ## * [Pendiente] SCSS herencia
 
+_KOF es una pagina web que concentra información del video juego arcade The king of figthers desde la serie 1995 a la 1998_
